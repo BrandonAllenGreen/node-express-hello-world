@@ -1,0 +1,23 @@
+{
+  "name": "node-express-hello-world",
+  "version": "1.0.0",
+  "description": "Make a Node.js program named `express-hello-world.js` that outputs \"Hello World\"\r to browsers making a GET request to the root (/) url.",
+  "main": "express-hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonAllenGreen/node-express-hello-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonAllenGreen/node-express-hello-world/issues"
+  },
+  "homepage": "https://github.com/BrandonAllenGreen/node-express-hello-world#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
